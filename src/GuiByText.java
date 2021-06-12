@@ -9,5 +9,6 @@ public class GuiByText extends JFrame {
         GuiByText guiByText = new GuiByText();
         guiByText.setVisible(true);
     }
+
 }
 
